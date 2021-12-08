@@ -88,4 +88,5 @@ public class Loader {
         Cat Jhoosef = new Cat(1100.0);
         return Jhoosef;
     }
+
 }
